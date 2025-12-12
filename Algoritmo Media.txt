@@ -1,0 +1,11 @@
+Algoritmo Media
+Variável num1, num2, media: real;
+
+Início
+Escrever ("Digite o 1º número");
+Ler (num1);
+Escrever ("Digite o 2º número");
+Ler (num2);
+media = (num1+num2)/2
+
+Escrever ("A média entre", num1 "e", num2 "é de", media)
